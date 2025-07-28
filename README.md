@@ -1,4 +1,4 @@
-# 🐍 Enhanced 33-Day Python Learning Journey
+# 🐍 Enhanced 33-Day Python Learning Journey.
 
 > **Transform from beginner to advanced Python programmer with comprehensive, industry-aligned curriculum!**
 
